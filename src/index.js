@@ -1,3 +1,3 @@
-export default function main(){
-    console.log(123)
-}
+import * as core from './core/index'
+
+export default core
