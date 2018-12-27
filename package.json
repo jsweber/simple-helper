@@ -25,5 +25,8 @@
   "homepage": "https://github.com/jsweber/simple-helper#readme",
   "devDependencies": {
     "rollup": "^0.68.2"
+  },
+  "dependencies": {
+    "react": "^16.7.0"
   }
 }
