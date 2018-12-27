@@ -1,0 +1,29 @@
+{
+  "name": "simple-helper",
+  "version": "0.0.1",
+  "description": "jsweber's common function library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "rollup -w -c scripts/config.dev.js",
+    "build": "rollup -c scripts/config.build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsweber/simple-helper.git"
+  },
+  "keywords": [
+    "javascript",
+    "Function-like-programming",
+    "react"
+  ],
+  "author": "jsweber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsweber/simple-helper/issues"
+  },
+  "homepage": "https://github.com/jsweber/simple-helper#readme",
+  "devDependencies": {
+    "rollup": "^0.68.2"
+  }
+}
