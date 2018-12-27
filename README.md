@@ -1,16 +1,22 @@
-# simple-helper
-My common function library
+## WHAT IS SIMPLE-HELPER
+My common function library  
 
-core platform independent
+core platform independent  
 
-# usage
-npm install -D simple-helper-func
+## GET START
 
-es6 module:
-    import sh from 'simple-helper-func'
+#### install
+```npm install -D simple-helper-func  ```
 
-commonjs:
-    const sh = require('simple-helper-func')
+#### es6 module:  
+```javascript
+    import sh from 'simple-helper-func'  
+```
+
+#### commonjs:  
+```javascript
+    const sh = require('simple-helper-func') 
+``` 
 
 
 
