@@ -1,5 +1,5 @@
 {
-  "name": "simple-helper",
+  "name": "simple-helper-func",
   "version": "0.0.1",
   "description": "jsweber's common function library",
   "main": "index.js",
